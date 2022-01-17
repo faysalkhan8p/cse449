@@ -1,12 +1,8 @@
-Link to unlisted youtube video:
-
-
 Paper Title
 An Overview of Docker and an Evaluation of Its
 
 Paper Link:
 https://drive.google.com/file/d/1V5zW4h1gvKlWzwnijKY5B12OuSbNs9lN/view?usp=sharing
-
 Video Link
 https://youtu.be/RQq91doJFDI
 
